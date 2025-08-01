@@ -59,7 +59,7 @@ Nesta classe você encontra Scanner para realizar a leitura da opção digitada 
 
 1. Clone este repositório:
    `bash
-   git clone https://github.com/carolinesvazz/ConversorDeMoedas
+   git clone https://github.com/carolinesvazz/ValorMedioDeVeiculos
 
 ## 📄 Licença
 
